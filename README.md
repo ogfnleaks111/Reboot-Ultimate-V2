@@ -1,2 +1,2 @@
-# Reboot-Ultimate-V2
-Better Version of Reboot Ultimate V1
+# Credits
+all main credits to @cipher
